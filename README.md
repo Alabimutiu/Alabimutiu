@@ -41,7 +41,7 @@ in the data science field.
 Feel free to reach out to me for any queries or collaborations:
 
 - **Email**: [your.email@example.com](mailto:your.email@example.com)
-- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/your-profile)
+- **LinkedIn**: [Your LinkedIn Profile]([(https://www.linkedin.com/in/mutiu-sulaimon-7b604367/))]
 - **GitHub**: [Your GitHub Profile](https://github.com/your-username)
 
 Thank you for visiting my portfolio! I look forward to connecting with you.
