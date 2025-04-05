@@ -40,8 +40,8 @@ in the data science field.
 
 Feel free to reach out to me for any queries or collaborations:
 
-- **Email**: [your.email@example.com](mailto:alabimutiu2011@yahoo.com)
-- **LinkedIn**: [Your LinkedIn Profile]((https://www.linkedin.com/in/mutiu-sulaimon-7b604367/))
+- **Email**: (alabimutiu2011@yahoo.com)
+- **LinkedIn**: ((https://www.linkedin.com/in/mutiu-sulaimon-7b604367/))
 - **GitHub**: [Your GitHub Profile](https://github.com/your-username)
 
 Thank you for visiting my portfolio! I look forward to connecting with you.
